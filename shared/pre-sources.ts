@@ -278,6 +278,7 @@ export const originSources = {
   "bilibili": {
     name: "哔哩哔哩",
     color: "blue",
+    disable: true,
     home: "https://www.bilibili.com",
     sub: {
       "hot-search": {
